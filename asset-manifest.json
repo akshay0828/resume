@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/resume.git/static/css/main.934621fe.chunk.css",
+    "main.js": "/resume.git/static/js/main.fd932e1b.chunk.js",
+    "main.js.map": "/resume.git/static/js/main.fd932e1b.chunk.js.map",
+    "runtime-main.js": "/resume.git/static/js/runtime-main.9b530eb8.js",
+    "runtime-main.js.map": "/resume.git/static/js/runtime-main.9b530eb8.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/resume.git/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.49fb0565.chunk.js": "/resume.git/static/js/2.49fb0565.chunk.js",
+    "static/js/2.49fb0565.chunk.js.map": "/resume.git/static/js/2.49fb0565.chunk.js.map",
+    "static/js/3.c5a75890.chunk.js": "/resume.git/static/js/3.c5a75890.chunk.js",
+    "static/js/3.c5a75890.chunk.js.map": "/resume.git/static/js/3.c5a75890.chunk.js.map",
+    "index.html": "/resume.git/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/resume.git/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.934621fe.chunk.css.map": "/resume.git/static/css/main.934621fe.chunk.css.map",
+    "static/js/2.49fb0565.chunk.js.LICENSE.txt": "/resume.git/static/js/2.49fb0565.chunk.js.LICENSE.txt",
+    "static/media/about.aee0f771.png": "/resume.git/static/media/about.aee0f771.png",
+    "static/media/akshay.d89daeca.pdf": "/resume.git/static/media/akshay.d89daeca.pdf",
+    "static/media/avatar.5852f40f.svg": "/resume.git/static/media/avatar.5852f40f.svg",
+    "static/media/blog.52102140.png": "/resume.git/static/media/blog.52102140.png",
+    "static/media/chatify.a03d96b3.png": "/resume.git/static/media/chatify.a03d96b3.png",
+    "static/media/emotion.e92e314a.jpeg": "/resume.git/static/media/emotion.e92e314a.jpeg",
+    "static/media/style.css": "/resume.git/static/media/pre.d4812f51.svg",
+    "static/media/home-main.541f8179.svg": "/resume.git/static/media/home-main.541f8179.svg",
+    "static/media/home.a304882c.png": "/resume.git/static/media/home.a304882c.png",
+    "static/media/leaf.0b690011.png": "/resume.git/static/media/leaf.0b690011.png",
+    "static/media/leaf.ebffba4b.png": "/resume.git/static/media/leaf.ebffba4b.png",
+    "static/media/logo.20472484.jpg": "/resume.git/static/media/logo.20472484.jpg",
+    "static/media/me.a9f52f2c.png": "/resume.git/static/media/me.a9f52f2c.png",
+    "static/media/suicide.b72f1f9f.png": "/resume.git/static/media/suicide.b72f1f9f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b530eb8.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.49fb0565.chunk.js",
+    "static/css/main.934621fe.chunk.css",
+    "static/js/main.fd932e1b.chunk.js"
+  ]
+}
